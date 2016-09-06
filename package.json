@@ -1,0 +1,15 @@
+{
+  "name": "timestampservice",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp Timestamp MicroService API",
+  "main": "server.js",
+  "dependencies": {
+    "npm": "^3.10.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "Luca Perico",
+  "license": "ISC"
+}
