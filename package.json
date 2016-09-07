@@ -2,17 +2,18 @@
   "name": "timestampservice",
   "version": "1.0.0",
   "description": "FreeCodeCamp Timestamp MicroService API",
-  "main": "server.js",
+  "main": ":server.js",
   "dependencies": {
+    "moment": "^2.14.1",
     "npm": "^3.10.6"
   },
   "devDependencies": {},
   "scripts": {
     "test": "node test.js"
   },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/LucaPericoIT/TimestampService.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LucaPericoIT/TimestampService.git"
   },
   "author": "Luca Perico",
   "license": "ISC"
